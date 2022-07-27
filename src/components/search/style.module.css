@@ -1,0 +1,13 @@
+.input{
+    min-width: 20vw !important;
+    width: 40vw !important;
+    padding: 6px !important;
+    border: 1px solid grey;
+}
+.input:focus{
+    border-color: none;
+    border: 2px solid rgb(108, 108, 186);
+}
+.searchBtn{
+    width: 6vw;
+}

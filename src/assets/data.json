@@ -1,0 +1,56 @@
+[
+  {
+    "itemNo": "1",
+    "itemName": "Potato",
+    "itemImg": "https://i0.wp.com/onlymyenglish.com/wp-content/uploads/2020/11/potato-min.png?resize=150%2C150&ssl=1",
+    "ItemPrice": "40.00"
+  },
+  {
+    "itemNo": "2",
+    "itemName": "Tomato",
+    "itemImg": "https://i0.wp.com/onlymyenglish.com/wp-content/uploads/2020/11/tomato-min.png?resize=150%2C150&ssl=1",
+    "ItemPrice": "50.00"
+  },
+  {
+    "itemNo": "3",
+    "itemName": "Brinjal",
+    "itemImg": "https://i0.wp.com/onlymyenglish.com/wp-content/uploads/2020/11/brinjal-min.png?resize=150%2C150&ssl=1",
+    "ItemPrice": "50.00"
+  },
+  {
+    "itemNo": "4",
+    "itemName": "Sugar",
+    "itemImg": "https://5.imimg.com/data5/YD/DJ/MY-70422967/skyplus-sugar-500x500.jpg",
+    "ItemPrice": "40.00"
+  },
+  {
+    "itemNo": "5",
+    "itemName": "TATA Salt",
+    "itemImg": "https://m.media-amazon.com/images/I/518GEoZtbhL.jpg",
+    "ItemPrice": "20.00"
+  },
+  {
+    "itemNo": "1",
+    "itemName": "Potato",
+    "itemImg": "https://i0.wp.com/onlymyenglish.com/wp-content/uploads/2020/11/potato-min.png?resize=150%2C150&ssl=1",
+    "ItemPrice": "40.00"
+  },
+  {
+    "itemNo": "2",
+    "itemName": "Tomato",
+    "itemImg": "https://i0.wp.com/onlymyenglish.com/wp-content/uploads/2020/11/tomato-min.png?resize=150%2C150&ssl=1",
+    "ItemPrice": "50.00"
+  },
+  {
+    "itemNo": "3",
+    "itemName": "Brinjal",
+    "itemImg": "https://i0.wp.com/onlymyenglish.com/wp-content/uploads/2020/11/brinjal-min.png?resize=150%2C150&ssl=1",
+    "ItemPrice": "50.00"
+  },
+  {
+    "itemNo": "4",
+    "itemName": "Sugar",
+    "itemImg": "https://5.imimg.com/data5/YD/DJ/MY-70422967/skyplus-sugar-500x500.jpg",
+    "ItemPrice": "40.00"
+  }
+]
